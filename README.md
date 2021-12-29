@@ -2,7 +2,7 @@
 
 ## Thành viên
 
-|   MSSV   |      Họ tên     |   Github  |
+|   MSSV   |      Họ tên     |   GitHub  |
 |:--------:|:---------------:|:---------:|
 | 18120120 | Trần Chí Hào    | haotrch   |
 | 18120147 | Trần Quốc Thắng | tqthangbl |
